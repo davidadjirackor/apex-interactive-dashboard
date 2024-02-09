@@ -2,7 +2,7 @@
 This is the file for an interactive dashboard created from a data sample of almost 1.5k respondents on salary and saving dynamic in Ghana. The primary place of the exercise was on Twitter. The results were shared via a spreadsheet and the analysis and further breakdown and interactive daashboard was developed.
 
 # Installation 
-In the repo you will find the f103.sql file. Download the file and import it into your preferred Oracle apex setup. The apex version is 22.1
+In the repo you will find the f103.sql file. Download the file and import it into your preferred Oracle apex setup. The raw data in excel format can be uploaded and stored in the schema.
 
 # The SQL Queries
   This is the list of all the queries used for the interactive dashboard. 
